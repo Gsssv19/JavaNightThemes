@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dbdbdb;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #000;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ededed;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #e4e4e4;
+      }
+
+      .cls-5 {
+        fill: #b3b3b3;
+      }
+
+      .cls-6 {
+        fill: #c7c7c7;
+      }
+
+      .cls-7 {
+        fill: #d1d1d1;
+      }
+
+      .cls-8 {
+        fill: #bebebe;
+      }
+
+      .cls-9 {
+        fill: #888;
+      }
+
+      .cls-10 {
+        fill: #9e9e9e;
+      }
+
+      .cls-11 {
+        fill: #a9a9a9;
+      }
+
+      .cls-12 {
+        fill: #939393;
+      }
+
+      .cls-13 {
+        fill: #545454;
+      }
+
+      .cls-14 {
+        fill: #6f6f6f;
+      }
+
+      .cls-15 {
+        fill: #7c7c7c;
+      }
+
+      .cls-16 {
+        fill: #626262;
+      }
+
+      .cls-18 {
+        fill: #343434;
+      }
+
+      .cls-19 {
+        fill: #454545;
+      }
+
+      .cls-20 {
+        fill: #202020;
+      }
+    </style>
+  </defs>
+  <path id="Rectángulo_redondeado_1" data-name="Rectángulo redondeado 1" class="cls-1" d="M475.13,1544.5h-360.3a10,10,0,0,1-10-10V1373.78a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V1534.5A10,10,0,0,1,475.13,1544.5Z"/>
+  <path id="Rectángulo_redondeado_1-2" data-name="Rectángulo redondeado 1" class="cls-2" d="M1414.89,1544.5H1054.58a10,10,0,0,1-10-10V1373.78a10,10,0,0,1,10-10h360.31a10,10,0,0,1,10,10V1534.5A10,10,0,0,1,1414.89,1544.5Z"/>
+  <path id="Rectángulo_redondeado_1-3" data-name="Rectángulo redondeado 1" class="cls-3" d="M1884.76,1544.5h-360.3a10,10,0,0,1-10-10V1373.78a10,10,0,0,1,10-10h360.3a9.991,9.991,0,0,1,10,10V1534.5A10,10,0,0,1,1884.76,1544.5Z"/>
+  <path id="Rectángulo_redondeado_1-4" data-name="Rectángulo redondeado 1" class="cls-4" d="M945.008,1544.5h-360.3a10,10,0,0,1-10-10V1373.78a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V1534.5A10,10,0,0,1,945.008,1544.5Z"/>
+  <path id="Rectángulo_redondeado_1-5" data-name="Rectángulo redondeado 1" class="cls-5" d="M475.13,1316.63h-360.3a10,10,0,0,1-10-10V1145.91a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10v160.72A10,10,0,0,1,475.13,1316.63Z"/>
+  <path id="Rectángulo_redondeado_1-6" data-name="Rectángulo redondeado 1" class="cls-6" d="M1414.89,1318.2H1054.58a10,10,0,0,1-10-10V1147.48a10,10,0,0,1,10-10h360.31a10,10,0,0,1,10,10V1308.2A10,10,0,0,1,1414.89,1318.2Z"/>
+  <path id="Rectángulo_redondeado_1-7" data-name="Rectángulo redondeado 1" class="cls-7" d="M1884.76,1316.63h-360.3a10,10,0,0,1-10-10V1145.91a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10v160.72A10,10,0,0,1,1884.76,1316.63Z"/>
+  <path id="Rectángulo_redondeado_1-8" data-name="Rectángulo redondeado 1" class="cls-8" d="M945.008,1316.63h-360.3a10,10,0,0,1-10-10V1145.91a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10v160.72A10,10,0,0,1,945.008,1316.63Z"/>
+  <path id="Rectángulo_redondeado_1-9" data-name="Rectángulo redondeado 1" class="cls-9" d="M475.13,1088.76h-360.3a10,10,0,0,1-10-10V918.042a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V1078.76A10,10,0,0,1,475.13,1088.76Z"/>
+  <path id="Rectángulo_redondeado_1-10" data-name="Rectángulo redondeado 1" class="cls-10" d="M1414.89,1088.76H1054.58a10,10,0,0,1-10-10V918.042a10,10,0,0,1,10-10h360.31a10,10,0,0,1,10,10V1078.76A10,10,0,0,1,1414.89,1088.76Z"/>
+  <path id="Rectángulo_redondeado_1-11" data-name="Rectángulo redondeado 1" class="cls-11" d="M1884.76,1088.76h-360.3a10,10,0,0,1-10-10V918.042a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V1078.76A9.991,9.991,0,0,1,1884.76,1088.76Z"/>
+  <path id="Rectángulo_redondeado_1-12" data-name="Rectángulo redondeado 1" class="cls-12" d="M945.008,1088.76h-360.3a10,10,0,0,1-10-10V918.042a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V1078.76A10,10,0,0,1,945.008,1088.76Z"/>
+  <path id="Rectángulo_redondeado_1-13" data-name="Rectángulo redondeado 1" class="cls-13" d="M475.13,862.469h-360.3a10,10,0,0,1-10-10V691.747a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V852.469A10,10,0,0,1,475.13,862.469Z"/>
+  <path id="Rectángulo_redondeado_1-14" data-name="Rectángulo redondeado 1" class="cls-14" d="M1414.89,862.469H1054.58a10,10,0,0,1-10-10V691.747a10,10,0,0,1,10-10h360.31a10,10,0,0,1,10,10V852.469A10,10,0,0,1,1414.89,862.469Z"/>
+  <path id="Rectángulo_redondeado_1-15" data-name="Rectángulo redondeado 1" class="cls-15" d="M1884.76,862.469h-360.3a10,10,0,0,1-10-10V691.747a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V852.469A10,10,0,0,1,1884.76,862.469Z"/>
+  <path id="Rectángulo_redondeado_1-16" data-name="Rectángulo redondeado 1" class="cls-16" d="M945.008,862.469h-360.3a10,10,0,0,1-10-10V691.747a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V852.469A10,10,0,0,1,945.008,862.469Z"/>
+  <path id="Rectángulo_redondeado_1-17" data-name="Rectángulo redondeado 1" class="cls-17" d="M475.13,636.173h-360.3a10,10,0,0,1-10-10V465.451a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V626.173A10,10,0,0,1,475.13,636.173Z"/>
+  <path id="Rectángulo_redondeado_1-18" data-name="Rectángulo redondeado 1" class="cls-18" d="M1414.89,636.173H1054.58a10,10,0,0,1-10-10V465.451a10,10,0,0,1,10-10h360.31a10,10,0,0,1,10,10V626.173A10,10,0,0,1,1414.89,636.173Z"/>
+  <path id="Rectángulo_redondeado_1-19" data-name="Rectángulo redondeado 1" class="cls-19" d="M1884.76,636.173h-360.3a10,10,0,0,1-10-10V465.451a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V626.173A10,10,0,0,1,1884.76,636.173Z"/>
+  <path id="Rectángulo_redondeado_1-20" data-name="Rectángulo redondeado 1" class="cls-20" d="M945.008,636.173h-360.3a10,10,0,0,1-10-10V465.451a10,10,0,0,1,10-10h360.3a10,10,0,0,1,10,10V626.173A10,10,0,0,1,945.008,636.173Z"/>
+</svg>

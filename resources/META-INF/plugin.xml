@@ -1,0 +1,32 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>com.javanight.theme</id>
+    <version>1.0.0</version>
+    <name>JavaNight Themes</name>
+    <category>UI Themes</category>
+    <vendor email="luytenservices@gmail.com">Gustav G.A</vendor>
+    <idea-version since-build="241" until-build="243.*"/>
+    <description><![CDATA[<p>JavaNight Themes are themes focused on comfort and visibility when writing code.</p>
+<ul>
+  <li><strong>Dark themes:</strong> Perfect for coding at night or in low-light settings, providing a pleasant contrast that minimizes eye strain, helping maintain concentration for longer periods without discomfort.</li>
+</ul>
+
+<p>Themes<p/>
+
+<ul>
+<li>JavaPastel Mate</li>
+<li>JavaPastel Lux</li>
+<li>JavaPastel Space</li>
+<li>JavaPastel HighContrast</li>
+</ul>]]></description>
+    <change-notes><![CDATA[JavaNight Themes V1.0.0 Release]]></change-notes>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!--Theme Dark Mate-->              <themeProvider id="1959b9e6-b689-4ecd-92f0-21d5b7901aff" path="/themes/JavaPastelSpace.theme.json" />
+        <!--Theme Dark Mate-->              <themeProvider id="361f05db-85cb-41d1-9fac-c6e9cecbd2fc" path="/themes/JavaPastelMate.theme.json" />
+        <!--Theme Dark High Contrast-->     <themeProvider id="72e6b588-e61d-41e2-bdbd-0d3f0b80f371" path="/themes/JavaPastelHighContrast.theme.json" />
+        <!--Theme Dark Lux-->               <themeProvider id="13cfa35a-a320-4145-92c3-6896e1c6619e" path="/themes/JavaPastelLux.theme.json" />
+    </extensions>
+
+</idea-plugin>
