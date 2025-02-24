@@ -5,7 +5,7 @@
     <name>JavaNight Themes</name>
     <category>UI Themes</category>
     <vendor email="luytenservices@gmail.com">Gustav G.A</vendor>
-    <idea-version since-build="241" until-build="243.*"/>
+    <idea-version since-build="241" until-build="251.*"/>
     <description><![CDATA[<p>JavaNight Themes are themes focused on comfort and visibility when writing code.</p>
 <ul>
   <li><strong>Dark themes:</strong> Perfect for coding at night or in low-light settings, providing a pleasant contrast that minimizes eye strain, helping maintain concentration for longer periods without discomfort.</li>
