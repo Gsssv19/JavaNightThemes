@@ -560,13 +560,13 @@
       }
     },
     "FileColor": {
-      "Yellow": "yellow",
-      "Green": "green",
-      "Blue": "blue",
-      "Violet": "violet",
-      "Orange": "orange",
-      "Rose": "rose",
-      "Gray": "gray"
+      "Yellow": "bg",
+      "Green": "bg",
+      "Blue": "bg",
+      "Violet": "bg",
+      "Orange": "bg",
+      "Rose": "bg",
+      "Gray": "bg"
     },
     "link": "fg",
     "Link": {
