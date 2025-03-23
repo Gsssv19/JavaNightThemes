@@ -32,7 +32,7 @@
         </option>
         <option name="ANNOTATION_NAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="165D0F" />
+                <option name="FOREGROUND" value="b93f3f" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -981,6 +981,13 @@
                 <option name="FOREGROUND" value="747070" />
                 <option name="BACKGROUND" value="4a074b" />
                 <option name="ERROR_STRIPE_COLOR" value="8d4457" />
+            </value>
+        </option>
+        <option name="WRONG_REFERENCES_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="700909" />
+                <option name="EFFECT_COLOR" value="940505" />
+                <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
         <option name="XML_ATTRIBUTE_NAME">
