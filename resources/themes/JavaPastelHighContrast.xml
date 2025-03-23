@@ -12,6 +12,7 @@
         <option name="SELECTION_BACKGROUND" value="363649" />
         <option name="CARET_ROW_COLOR" value="141414" />
         <option name="FILESTATUS_MODIFIED" value="0F9795" />
+        <option name="DOCUMENTATION_COLOR" value="000000" />
     </colors>
     <attributes>
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -31,7 +32,7 @@
         </option>
         <option name="ANNOTATION_NAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="b93f3f" />
+                <option name="FOREGROUND" value="165D0F" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>

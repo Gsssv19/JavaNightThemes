@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.javanight.theme</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <name>JavaNight Themes</name>
     <category>UI Themes</category>
     <vendor email="luytenservices@gmail.com">Gustav G.A</vendor>
@@ -24,6 +24,12 @@
     <h3> Compatibility Range 241 — 251.* </h3>
     <h2>v1.0.2</h2>
     -Color adjustments according to themes
+
+    <h2>v1.0.3</h2>
+    Fixes
+<br/>
+    -Annotation color changed<br/>
+    -Documentation color changed
 ]]></change-notes>
     <depends>com.intellij.modules.platform</depends>
 
