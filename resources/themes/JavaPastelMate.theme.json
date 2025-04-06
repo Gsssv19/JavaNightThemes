@@ -99,10 +99,10 @@
 
     "ActionButton": {
       "focusedBorderColor": "#5EACD0",
-      "hoverBackground": "#4C5052",
-      "hoverBorderColor": "#4C5052",
-      "pressedBackground": "#5C6164",
-      "pressedBorderColor": "#5C6164"
+      "hoverBackground": "#363649",
+      "hoverBorderColor": "#363649",
+      "pressedBackground": "#363649",
+      "pressedBorderColor": "#383846"
     },
 
     "Button": {
@@ -1132,6 +1132,13 @@
 
       }
 
+    },
+    "ToolWindow": {
+      "Button": {
+        "hoverBackground": "#363649",
+        "selectedBackground": "#363649",
+        "selectedForeground": "#363649"
+      }
     },
 
     "material": {
